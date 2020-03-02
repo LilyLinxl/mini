@@ -1,0 +1,5 @@
+<view class="home">
+ <w-swiper images="{{banners}}"/>
+ <w-recommend recommends="{{recommends}}"/>
+ <w-feature/>
+</view>
